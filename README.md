@@ -2,4 +2,5 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Chibu Atuchi for the Lighthouse Labs Web Bootcamp.
+This repository contains all of the notes taken by [Chibu Atuchi](https://github.com/catuchi) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Bootcamp.
+
